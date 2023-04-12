@@ -1,0 +1,11 @@
+{
+    "name": "Transfer Youtube YandexMusic",
+    "description": "Extract all images from current web page",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup":"index.html"
+    },
+    "permissions": [],
+    "background":{}
+}
