@@ -1,6 +1,6 @@
 {
     "name": "Transfer Youtube YandexMusic",
-    "description": "Extract all images from current web page",
+    "description": "",
     "version": "1.0",
     "manifest_version": 3,
     "action": {
